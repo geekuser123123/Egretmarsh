@@ -15,7 +15,7 @@
 export default {
   site: {
     url: 'https://egretmarsh.kevin-c4h.workers.dev', // no trailing slash — confirm after first Cloudflare deploy
-    googleSiteVerification: 'MPb7wlg5sLMlW-5_QfAiw2gDRsS6L051fbQgbHwPlHU', // Search Console HTML-tag "content" value
+    googleSiteVerification: null, // Search Console HTML-tag "content" value
     locale: 'en_US',
     language: 'en-US',
   },
