@@ -33,7 +33,7 @@ and won't send. Setup steps: `docs/N8N-FORM-SETUP.md`.
 
 ## Office
 
-**[street address — to be provided], Tampa, FL** (storefront office). Phone: **(656) 223-5799**.
+**3502 Henderson Blvd, Tampa, FL 33609** (storefront office). Phone: **(656) 223-5799**.
 
 ## Structure
 

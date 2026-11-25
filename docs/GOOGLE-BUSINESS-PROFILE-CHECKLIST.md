@@ -8,7 +8,7 @@ Use this **after** the website is live and Search Console is verified.
 > office, mailbox or unstaffed coworking address. Google may suspend the profile, and
 > it can damage trust.
 
-## Egretmarsh (Tampa, FL) notes
+## Egretmarsh (Tampa, FL — Henderson Blvd) notes
 
 - **Name:** **Egretmarsh**, exactly as on the website. Register the **fictitious name** with the Florida Division of
   Corporations (Sunbiz), after the required newspaper notice, before creating the profile (if "Egretmarsh" isn't the legal name).
@@ -16,7 +16,7 @@ Use this **after** the website is live and Search Console is verified.
   name, photos and branding distinct, and don't create a second profile at this address.
 - **Business type:** **Local store / storefront**: clients visit the office during the posted
   hours. Google requires a **complete, real street address that is staffed during those hours**.
-- **Address:** **[street address, Tampa, FL ZIP — to be provided]**, entered exactly as on the website.
+- **Address:** **3502 Henderson Blvd, Tampa, FL 33609**, entered exactly as on the website.
   If the office has a suite number, add it to both.
 - **Phone:** **(656) 223-5799**.
 - **Hours:** Monday–Friday, 9:00 AM – 5:00 PM.
